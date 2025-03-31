@@ -23,23 +23,20 @@ Projeto-IMDB/
 
 ## 🔍 Etapas do Projeto
 
+### 1. Análise Exploratória de Dados (EDA)
+- Visualização da distribuição de sentimentos com `seaborn`
+- Cálculo e visualização de outliers com base no comprimento das avaliações (IQR)
+- Gráficos interativos com `plotly` (opcional)
+
 ### 1. Pré-Processamento de Dados
 - Leitura da base com pandas
 - Limpeza e normalização de textos
 - Criação de variáveis auxiliares (`text_length`, `clean_review`, etc.)
 
-### 2. Análise Exploratória de Dados (EDA)
-- Visualização da distribuição de sentimentos com `seaborn`
-- Cálculo e visualização de outliers com base no comprimento das avaliações (IQR)
-- Gráficos interativos com `plotly` (opcional)
-
 ### 3. Processamento de Dados
 - Mapeamento de sentimentos (`positive` → 1, `negative` → 0)
 - Criação de subconjuntos filtrando outliers
 - Preparação para vetorização e modelagem
-
-### 4. Modelagem (em andamento ou opcional)
-- Pode incluir regressão logística ou outros modelos via `scikit-learn`
 
 ---
 
