@@ -71,5 +71,4 @@ Projeto acadêmico para a disciplina **Projeto Aplicado II** no curso de Ciênci
 
 ## 📌 Observações
 
-- O projeto está em desenvolvimento contínuo.
-- A modelagem pode ser expandida com validação cruzada, métricas e comparação entre algoritmos.
+- O projeto está em ainda em fase de desenvolvimento.
