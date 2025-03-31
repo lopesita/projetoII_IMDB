@@ -66,9 +66,11 @@ Ou usar o Google Colab (recomenda-se montar o Google Drive para acessar o CSV).
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Italo Aparecido Lopes**
+
+
 **Gabriel Chaves Gonçalves** 
 Projeto acadêmico para a disciplina **Projeto Aplicado II** no curso de Ciência de Dados.
 
