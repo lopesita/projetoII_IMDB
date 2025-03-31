@@ -13,7 +13,7 @@ Projeto-IMDB/
 │   └── IMDB Dataset.csv       # Base original de avaliações
 │
 ├── notebooks/                 
-│   └── Regressão_Logística_IMBD_reajustado2v.ipynb  # Notebook principal
+│   └── IMDBv2.ipynb  # Notebook principal
 │
 ├── read.me/                   
 │   └── README.md              # Este arquivo de documentação
