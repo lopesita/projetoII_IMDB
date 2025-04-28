@@ -13,7 +13,7 @@ Projeto-IMDB/
 │   └── IMDB Dataset.csv       # Base original de avaliações
 │
 ├── notebooks/                 
-│   └── IMDB2v.ipynb  # Notebook principal
+│   └── IMDB2v1.ipynb  # Notebook principal
 │
 ├── read.me/                   
 │   └── README.md              # Este arquivo de documentação
