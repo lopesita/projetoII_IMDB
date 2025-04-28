@@ -59,7 +59,7 @@ Projeto-IMDB/
 Você pode abrir e executar o projeto localmente com:
 
 ```bash
-jupyter notebook notebooks/Regressão_Logística_IMBD_reajustado2v.ipynb
+jupyter notebook notebooks/IMBD2v1.ipynb
 ```
 
 Ou usar o Google Colab (recomenda-se montar o Google Drive para acessar o CSV).
